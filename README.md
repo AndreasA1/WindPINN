@@ -22,3 +22,5 @@ Git stuff:
 -Syncing with remote:
 - $ git fetch origin
 - $ git merge origin/main
+
+recent collab notebook: https://colab.research.google.com/drive/1r4LFX93N6rMVBsrSzw69REgcsO61PFOX 
